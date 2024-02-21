@@ -9,15 +9,75 @@
 
 <channel>
 	<title>Fitpro</title>
-	<atom:link href="http://localhost/fitpro/feed/?simply_static_page=102" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/fitpro/feed/?simply_static_page=192" rel="self" type="application/rss+xml" />
 	<link>https://jerem45.github.io/wp_fitpro</link>
 	<description></description>
-	<lastBuildDate>Thu, 15 Feb 2024 11:48:43 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 21 Feb 2024 14:37:36 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.4.3</generator>
-</channel>
+	<item>
+		<title>Article 1</title>
+		<link>https://jerem45.github.io/wp_fitpro/2024/02/21/article-1/</link>
+					<comments>https://jerem45.github.io/wp_fitpro/2024/02/21/article-1/#respond</comments>
+		
+		<dc:creator><![CDATA[xeannort]]></dc:creator>
+		<pubDate>Wed, 21 Feb 2024 14:32:50 +0000</pubDate>
+				<category><![CDATA[Non classé]]></category>
+		<guid isPermaLink="false">https://jerem45.github.io/wp_fitpro/?p=135</guid>
+
+					<description><![CDATA[Lorem ipsum Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur venenatis feugiat vehicula. Aliquam auctor, quam id interdum hendrerit, lacus metus pharetra est, vitae dictum mi velit quis massa. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec vel efficitur magna. Nulla sit amet sollicitudin sapien. Morbi vulputate nisi eu [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<h2 class="wp-block-heading has-text-align-center">Lorem ipsum</h2>
+
+
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur venenatis feugiat vehicula. Aliquam auctor, quam id interdum hendrerit, lacus metus pharetra est, vitae dictum mi velit quis massa. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec vel efficitur magna. Nulla sit amet sollicitudin sapien. Morbi vulputate nisi eu nisi gravida, vestibulum venenatis dui auctor. Quisque finibus fermentum mattis. Sed efficitur et nisl id venenatis. Mauris pretium aliquet quam. Fusce hendrerit justo et mauris mollis pellentesque. Donec efficitur sodales eleifend. Integer sit amet placerat augue. Praesent rutrum, magna nec finibus placerat, leo felis consequat erat, nec fringilla felis nisi et purus. Aenean nec lectus porttitor, ullamcorper eros id, efficitur eros. Sed eget risus pharetra, pellentesque nisl non, imperdiet nisi.</p>
+
+
+
+<p>Praesent ut ex rhoncus, condimentum neque nec, eleifend risus. Proin mattis, urna in venenatis varius, erat mi viverra justo, in dignissim quam nunc bibendum diam. Nunc imperdiet porta libero, eu bibendum ipsum accumsan vitae. Vestibulum vestibulum et tortor ac aliquam. Quisque sagittis elementum est, sit amet vulputate orci placerat tincidunt. Phasellus pharetra nunc velit, ac eleifend felis commodo a. Aliquam erat volutpat. Proin dictum ligula eu fermentum vehicula. Donec non justo nibh. Aenean imperdiet, elit sed placerat ornare, elit nunc hendrerit nisl, eu tincidunt dolor leo non est. Mauris vestibulum eu diam sed dapibus. Nunc posuere diam eget massa vehicula vehicula. Sed eget felis eu dolor suscipit scelerisque.</p>
+
+
+
+<h2 class="wp-block-heading">Eu bibendum ipsum</h2>
+
+
+
+<p>Nam varius pharetra dui, nec pulvinar est congue non. Mauris consequat vitae felis a convallis. Praesent commodo posuere tortor, id rutrum libero scelerisque vitae. Mauris auctor interdum velit, vitae tincidunt nisl. Sed luctus justo purus, non pulvinar eros placerat et. Donec placerat metus sit amet ante facilisis sagittis. Mauris finibus mattis lacus, et pretium leo egestas ut. Aliquam ut sem lacus. Donec sit amet eros bibendum, venenatis orci id, pharetra ante.</p>
+
+
+
+<p>Nunc tempus auctor ante, et pharetra lorem volutpat mattis. Donec sodales vitae dui a lobortis. Etiam a orci quis nunc eleifend pellentesque. Phasellus nec lectus nec sem sodales placerat sit amet sit amet diam. Nulla eleifend justo vel nunc commodo tempus. Cras feugiat ipsum erat, in mattis mi ornare non. Quisque dignissim tincidunt varius. Cras eleifend nibh ac leo vulputate, et rutrum augue feugiat.</p>
+
+
+
+<h2 class="wp-block-heading">Eleifend pellentesque</h2>
+
+
+
+<p>Donec vulputate mi ut erat vulputate malesuada. Proin euismod, enim et porta ornare, augue lectus iaculis odio, at porttitor arcu purus non orci. Nulla facilisi. Fusce sodales rutrum augue, id suscipit leo hendrerit in. Cras eros purus, porttitor auctor libero ut, condimentum sagittis diam. Vestibulum suscipit, metus a sollicitudin elementum, elit tellus commodo erat, a malesuada dolor magna in ipsum. Cras eu risus hendrerit, porttitor augue non, sollicitudin tellus. Etiam laoreet sodales ex, vel tempus justo aliquam a. Praesent porta euismod ligula, in dictum ex maximus vitae. In suscipit ligula in commodo egestas. Phasellus a quam velit.</p>
+
+
+
+<p>Etiam elementum, felis in maximus pellentesque, lectus augue mattis neque, vitae tempus turpis ipsum eget nisl. Pellentesque consectetur erat in eleifend vestibulum. Duis a consequat augue. Nullam eget leo quis eros convallis accumsan. Suspendisse hendrerit dictum dui, nec tristique orci condimentum malesuada. Ut rutrum vulputate enim id pellentesque. Vivamus ligula turpis, dignissim quis mi eget, bibendum hendrerit mi. Nunc non dui at elit aliquam facilisis ac vel sem. Nullam egestas, dui at porttitor sodales, sem tortor venenatis orci, eu blandit eros magna nec augue. Nulla et lobortis ex. Integer dictum elit eget varius vulputate. Suspendisse faucibus enim non est viverra tristique. Etiam volutpat pulvinar gravida. Etiam nec sagittis mi, vitae maximus tortor. Nullam sodales suscipit tempus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
+
+
+
+<p>Curabitur in tortor eget orci tempor suscipit sit amet in lacus. Phasellus tempor arcu ut nisi cursus elementum. Sed euismod tellus mi, vitae facilisis tellus ultrices a. Mauris lobortis metus quis nunc maximus luctus. Curabitur et lorem at neque bibendum commodo elementum vitae mi. Praesent finibus libero in lacinia cursus. Nullam quis aliquam ex, id iaculis lacus. Maecenas quis consectetur leo. Nam in mi id dolor tempor fermentum. Aenean vel urna sit amet quam congue tempor. Nunc eleifend dapibus lectus, scelerisque dignissim metus bibendum in. Donec aliquet finibus lacus, a facilisis nibh consequat eu. Sed vitae magna ac mi volutpat tincidunt quis et justo. Sed vehicula interdum eleifend. Etiam vulputate felis in sem ullamcorper auctor. In orci lectus, tempus ac elit quis, maximus tempor eros.</p>
+
+
+
+<p>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Sed malesuada ornare lorem, sed lobortis augue vestibulum eget. Nunc sagittis augue id ex tempus, ut fermentum justo convallis. Duis condimentum sit amet tortor sagittis auctor. Integer rutrum, sem id rutrum egestas, massa nunc ornare risus, eu consectetur lectus nunc vitae magna. Quisque ut elit a felis venenatis hendrerit eget aliquam metus. Etiam ut massa dui.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://jerem45.github.io/wp_fitpro/2024/02/21/article-1/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
 </rss>

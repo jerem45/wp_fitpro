@@ -7,11 +7,11 @@
 	>
 <channel>
 	<title>
-	Commentaires pour Fitpro	</title>
-	<atom:link href="http://localhost/fitpro/comments/feed/?simply_static_page=193" rel="self" type="application/rss+xml" />
-	<link>https://jerem45.github.io/wp_fitpro</link>
+	Commentaires sur : Article 1	</title>
+	<atom:link href="http://localhost/fitpro/2024/02/21/article-1/feed/?simply_static_page=221" rel="self" type="application/rss+xml" />
+	<link>https://jerem45.github.io/wp_fitpro/2024/02/21/article-1/</link>
 	<description></description>
-	<lastBuildDate>Wed, 21 Feb 2024 14:54:21 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 21 Feb 2024 14:37:36 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
